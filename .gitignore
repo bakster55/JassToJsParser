@@ -3,3 +3,5 @@
 examples/
 war3map/*/
 node_modules/
+
+war3map/war3map\.js
