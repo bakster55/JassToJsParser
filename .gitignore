@@ -1,3 +1,5 @@
 
 
 examples/
+war3map/*/
+node_modules/
